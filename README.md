@@ -43,9 +43,12 @@ node server.js
 
 To view a video walkthrough of the application, click on this link https://drive.google.com/file/d/13a-uCoTGxABZ0jm_RHvoZ__Q_JIFQBTp/view.
 
-After running the necessary commands in the integrated terminal as explained above in installation, the user will see App listening on port 3001! in their Integrated Terminal. 
+After running the necessary commands in the integrated terminal as explained above in Installation, the user will see App listening on port 3001! in their Integrated Terminal. 
+![Terminal](https://github.com/mchughmegan/E-Commerce-Back-End/blob/main/assets/Terminal.png)
 
-The user will then open insomnia, and look at the routes for products, categories, and tags. 
+The user will then open Insomnia, and use the routes for products, categories, and tags.
+
+![Insomnia](https://github.com/mchughmegan/E-Commerce-Back-End/blob/main/assets/Insomnia.png)
 
 ## Credits
 
