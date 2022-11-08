@@ -41,9 +41,17 @@ node server.js
 
 ## Usage
 
-To view a video walkthrough of the application, click on this link .
+To view a video walkthrough of the application, click on this link https://drive.google.com/file/d/13a-uCoTGxABZ0jm_RHvoZ__Q_JIFQBTp/view.
+
+After running the necessary commands in the integrated terminal as explained above in installation, the user will see App listening on port 3001! in their Integrated Terminal. 
+
+The user will then open insomnia, and look at the routes for products, categories, and tags. 
 
 ## Credits
+
+Thank you to the contributors to npmjs.com for the necessary dependencies for this application.
+
+Thank you to MDN Web Docs for the tutorial on routes, found here https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes.
 
 ## License
     
